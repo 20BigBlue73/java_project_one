@@ -31,6 +31,12 @@
         <version>5.4.0</version>
         <scope>test</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/com.google.auto.value/auto-value-annotations -->
+    <dependency>
+        <groupId>com.google.auto.value</groupId>
+        <artifactId>auto-value-annotations</artifactId>
+        <version>1.9</version>
+    </dependency>
     <!-- https://mvnrepository.com/artifact/com.google.auto.value/auto-value -->
     <dependency>
         <groupId>com.google.auto.value</groupId>
